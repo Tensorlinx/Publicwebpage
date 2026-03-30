@@ -9,7 +9,7 @@
   <meta name="description" content="Tensorlinx（上海灵兮矩阵）是一家专注于计算机基础设施建设的科技企业，致力于推动计算机科学技术到全球边缘地带。我们提供simplePHP框架、乌托邦微内核、AI模型等开源项目。" />
   <meta name="keywords" content="Tensorlinx,灵兮矩阵,计算机基础设施,开源项目,PHP框架,微内核,AI模型,科技企业" />
   <meta name="author" content="Tensorlinx" />
-  <meta name="robots" content="index, follow" />
+  <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://tensorlinx.online/#/home" />
   
   <!-- Open Graph / Facebook -->
@@ -159,7 +159,7 @@
       <!-- 左侧图片轮播 -->
       <div class="hero-slides">
         <div class="hero-slide-image active" style="background-image: url('img/NAVF.png')" data-slide="0"></div>
-        <div class="hero-slide-image" style="background-image: url('img/NAVF (1).png')" data-slide="1"></div>
+        <div class="hero-slide-image" style="background-image: url('img/43.png')" data-slide="1"></div>
         <div class="hero-slide-image" style="background-image: url('img/NAVF (2).png')" data-slide="2"></div>
       </div>
       
@@ -710,14 +710,14 @@
     // 点击页面其他地方关闭搜索框
     document.addEventListener('click', function(e) {
       const searchContainer = document.querySelector('.nav-search-container');
-      if (isNavSearchOpen && !searchContainer.contains(e.target)) {
+      if (window.isNavSearchOpen && !searchContainer.contains(e.target)) {
         toggleNavSearch();
       }
     });
 
     // ESC键关闭搜索框
     document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape' && isNavSearchOpen) {
+      if (e.key === 'Escape' && window.isNavSearchOpen) {
         toggleNavSearch();
       }
     });

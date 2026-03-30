@@ -1,0 +1,26 @@
+User-agent: *
+# 允许爬虫访问根路径（路由地址）
+Allow: /
+Allow: /#/
+
+# 禁止爬虫直接索引 HTML 文件（强制使用路由地址）
+Disallow: /index.html
+Disallow: /about.html
+Disallow: /products.html
+Disallow: /news.html
+Disallow: /news-wuxiang.html
+Disallow: /news-redox.html
+Disallow: /compliance-news.html
+Disallow: /NAVFIO.html
+Disallow: /funding-application.html
+Disallow: /privacy-policy.html
+Disallow: /cookie-policy.html
+Disallow: /mobile-block.html
+
+# 允许访问静态资源
+Allow: /css/
+Allow: /js/
+Allow: /img/
+
+# 站点地图（使用路由格式）
+Sitemap: https://tensorlinx.online/sitemap.xml

@@ -1,3 +1,9 @@
+// 防止重复执行
+if (window.mainJsLoaded) {
+    console.log('main.js 已加载，跳过重复执行');
+} else {
+    window.mainJsLoaded = true;
+
 // ===== 页面加载完成后执行 =====
 document.addEventListener('DOMContentLoaded', function() {
     // Hero轮播功能
@@ -22,8 +28,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     link: 'd4'
                 },
                 {
-                    title: 'Tensorlinx正在向redox开发小组进行资助',
-                    desc: 'Tensorlinx正在使用NAVF流动储备向redox开发小组进行资助，包括参与维护。这一行为不代表政治目的，是我们社会使命的一部分。',
+                    title: '关于董事批准了Utopia项目迁移境外和成立技术委员会',
+                    desc: 'Utopia项目已经完全从盈利公司中剥离出去，正式成为一个独立的开源组织。',
                     btn: '查看详情',
                     link: 'e5'
                 },
@@ -45,8 +51,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 link: 'd4'
             },
             {
-                title: langData.hero.slide2Title || 'Tensorlinx正在向redox开发小组进行资助',
-                desc: langData.hero.slide2Description || 'Tensorlinx正在使用NAVF流动储备向redox开发小组进行资助，包括参与维护。这一行为不代表政治目的，是我们社会使命的一部分。',
+                title: langData.hero.slide2Title || '关于董事批准了Utopia项目迁移境外和成立技术委员会',
+                desc: langData.hero.slide2Description || 'Utopia项目已经完全从盈利公司中剥离出去，正式成为一个独立的开源组织。',
                 btn: langData.hero.cta.viewDetails || '查看详情',
                 link: 'e5'
             },
@@ -267,3 +273,5 @@ document.addEventListener('visibilitychange', function() {
         console.log('页面变为可见');
     }
 });
+
+} // 结束防止重复执行的 if 语句

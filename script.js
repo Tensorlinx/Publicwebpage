@@ -1,13 +1,19 @@
-// 全局状态
-let currentLanguage = 'zh';
-let isMenuOpen = false;
-let scrollY = 0;
-let mousePosition = { x: 0, y: 0 };
-let translations = {}; // 存储翻译数据
+// 防止重复执行
+if (window.scriptJsLoaded) {
+  console.log('script.js 已加载，跳过重复执行');
+} else {
+  window.scriptJsLoaded = true;
 
-// 暴露全局变量供其他脚本使用
-window.currentLanguage = currentLanguage;
-window.translations = translations;
+  // 全局状态
+  let currentLanguage = 'zh';
+  let isMenuOpen = false;
+  let scrollY = 0;
+  let mousePosition = { x: 0, y: 0 };
+  let translations = {}; // 存储翻译数据
+
+  // 暴露全局变量供其他脚本使用
+  window.currentLanguage = currentLanguage;
+  window.translations = translations;
 
 // 安全保护机制 - 已完全禁用
 // function createSecurityOverlay() {
@@ -661,6 +667,7 @@ function getProjectIcon(language) {
 // 导航栏搜索功能
 let navSearchData = [];
 let isNavSearchOpen = false;
+window.isNavSearchOpen = isNavSearchOpen;
 
 // 初始化导航栏搜索数据
 function initNavSearchData() {
@@ -728,11 +735,12 @@ function handleNavSearch(event) {
 function toggleNavSearch() {
   const searchBox = document.getElementById('navSearchBox');
   const searchInput = document.getElementById('navSearchInput');
-  
+
   if (!searchBox || !searchInput) return;
-  
+
   isNavSearchOpen = !isNavSearchOpen;
-  
+  window.isNavSearchOpen = isNavSearchOpen;
+
   if (isNavSearchOpen) {
     searchBox.classList.add('active');
     searchInput.focus();
@@ -1449,3 +1457,5 @@ document.addEventListener('DOMContentLoaded', function() {
 window.toggleLanguage = toggleLanguage;
 window.toggleMobileMenu = toggleMobileMenu;
 window.closeMobileMenu = closeMobileMenu;
+
+} // 结束防止重复执行的 if 语句

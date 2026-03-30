@@ -1,6 +1,6 @@
 {
   "zh": {
-    "title": "Tensorlinx正在向redox开发小组进行资助 - Tensorlinx",
+    "title": "关于董事批准了Utopia项目迁移境外和成立技术委员会 - Tensorlinx",
     "nav": {
       "home": "首页",
       "products": "产品文档",
@@ -11,14 +11,15 @@
     "pageTitle": "新闻动态",
     "pageSubtitle": "了解Tensorlinx最新动态、技术突破和行业洞察",
     "article": {
-      "title": "Tensorlinx正在向redox开发小组进行资助",
-      "meta": "发布时间：2025年3月10日 | 作者：Tensorlinx团队 | 分类：企业公告",
+      "title": "关于董事批准了Utopia项目迁移境外和成立技术委员会",
+      "meta": "发布时间：2026年2月20日 | 作者：Tensorlinx团队 | 分类：企业公告",
       "content": [
-        "Tensorlinx正在使用NAVF流动储备向redox开发小组进行资助，包括参与维护。这一行为不代表政治目的，是我们社会使命的一部分。",
-        "Redox是一个用Rust语言编写的通用操作系统，旨在提供安全、可靠、高性能的计算环境。作为开源社区的重要成员，Redox项目致力于构建一个现代化的操作系统内核，采用微内核架构设计，从根本上提升系统的安全性和稳定性。",
-        "Tensorlinx此次资助将主要用于支持Redox项目的核心开发工作，包括系统内核优化、驱动程序开发、以及用户空间工具的完善。我们相信，通过支持这样的开源项目，能够推动整个计算机基础设施领域的技术进步。",
-        "作为一家专注于计算机基础设施建设的企业，Tensorlinx始终将技术创新和社会责任视为企业发展的核心驱动力。我们坚信，开源软件是现代技术生态的基石，支持开源项目的发展就是投资于整个行业的未来。",
-        "此次资助是Tensorlinx长期开源战略的一部分。未来，我们将继续寻找并支持更多具有创新潜力的开源项目，为构建更加开放、安全、高效的数字世界贡献力量。"
+        "Utopia项目已经完全从盈利公司中剥离出去，正式成为一个独立的开源组织。经董事会批准，Utopia项目将迁移至境外托管，并成立独立的技术委员会负责项目治理。",
+        "1. 托管与司法管辖区。Utopia项目关联的所有集成测试、包、仓库将迁移至境外托管设施。项目开发活动允许在境内境外进行（除关联美国OFAC制裁的基金外），且可受特定司法管辖区管辖（除关联美国OFAC制裁的基金外）。",
+        "2. 法律独立。Utopia技术委员会的所有法律行动与灵兮矩阵（上海）计算机系统有限公司无任何关联。",
+        "3. 基金会准入权限。Utopia技术委员会保留批准或拒绝基金会赞助申请的唯一权利。",
+        "4. 财务独立。Utopia技术委员会应通过设立公益实体或委托财务赞助基金处理财务事务，与本公司无任何关联。",
+        "5. 技术委员会组成。Utopia技术委员会候选人应基于技术贡献提名，并由社区选举产生。资助方/基金会可推荐不超过5%的候选人。最终任命权由技术委员会独立行使。"
       ],
       "shareTitle": "分享这篇新闻",
       "shareButton": "分享",
@@ -26,7 +27,7 @@
     }
   },
   "en": {
-    "title": "Tensorlinx is Providing Funding to the Redox Development Team - Tensorlinx",
+    "title": "Regarding the Board's Approval of Utopia Project Migration Overseas and Establishment of Technical Committee - Tensorlinx",
     "nav": {
       "home": "Home",
       "products": "Products",
@@ -37,14 +38,15 @@
     "pageTitle": "News & Updates",
     "pageSubtitle": "Stay informed about Tensorlinx's latest developments, technical breakthroughs, and industry insights",
     "article": {
-      "title": "Tensorlinx is Providing Funding to the Redox Development Team",
+      "title": "Regarding the Board's Approval of Utopia Project Migration Overseas and Establishment of Technical Committee",
       "meta": "Published: February 20, 2026 | Author: Tensorlinx Team | Category: Company Announcement",
       "content": [
-        "Tensorlinx is using NAVF liquid reserves to fund the Redox development team, including participation in maintenance. This action does not represent political purposes and is part of our social mission.",
-        "Redox is a general-purpose operating system written in Rust, designed to provide a secure, reliable, and high-performance computing environment. As an important member of the open-source community, the Redox project is committed to building a modern operating system kernel using a microkernel architecture, fundamentally improving system security and stability.",
-        "Tensorlinx's funding will primarily support the core development work of the Redox project, including system kernel optimization, driver development, and the improvement of user-space tools. We believe that by supporting such open-source projects, we can drive technological advancement across the entire computer infrastructure field.",
-        "As a company focused on computer infrastructure construction, Tensorlinx always regards technological innovation and social responsibility as the core drivers of enterprise development. We firmly believe that open-source software is the cornerstone of the modern technology ecosystem, and supporting the development of open-source projects is an investment in the future of the entire industry.",
-        "This funding is part of Tensorlinx's long-term open-source strategy. In the future, we will continue to seek out and support more open-source projects with innovative potential, contributing to the construction of a more open, secure, and efficient digital world."
+        "The Utopia Project has been completely spun off from the for-profit company and has officially become an independent open-source organization. Upon board approval, the Utopia Project will migrate to offshore hosting and establish an independent Technical Committee responsible for project governance.",
+        "1. Hosting and Jurisdiction. All integration tests, packages, and repositories associated with the Utopia Project shall be migrated to offshore hosting facilities. Project development activities are permitted both domestically and internationally (excluding funds affiliated with U.S. OFAC sanctions) and shall be subject to specific jurisdictions (excluding funds affiliated with U.S. OFAC sanctions).",
+        "2. Legal Separation. All legal actions of the Utopia Technical Committee shall bear no affiliation with Tensorlinx (Shanghai) Computer System Co., Ltd.",
+        "3. Foundation Admission Authority. The Utopia Technical Committee reserves the exclusive right to approve or reject foundation sponsorship applications.",
+        "4. Financial Independence. The Utopia Technical Committee shall handle financial matters through the establishment of public benefit entities or engagement of fiscal sponsorship funds, with no affiliation to the Company.",
+        "5. Technical Committee Composition. Candidates for the Utopia Technical Committee shall be nominated based on technical contributions and elected by the community. Sponsors/foundations may recommend no more than 5% of candidates. Final appointment authority shall be exercised independently by the Technical Committee."
       ],
       "shareTitle": "Share this News",
       "shareButton": "Share",
