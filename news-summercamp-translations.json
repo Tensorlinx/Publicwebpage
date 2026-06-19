@@ -1,0 +1,78 @@
+{
+  "zh": {
+    "title": "上海Tensorlinx发布2027年暑期本科生/研究生夏令营企业研究课题组及研究课题 - Tensorlinx新闻",
+    "nav": {
+      "home": "首页",
+      "products": "产品文档",
+      "news": "新闻动态",
+      "jobs": "岗位招聘",
+      "about": "关于我们"
+    },
+    "pageTitle": "新闻动态",
+    "pageSubtitle": "了解Tensorlinx最新动态、技术突破和行业洞察",
+    "article": {
+      "title": "上海Tensorlinx发布2027年暑期本科生/研究生夏令营企业研究课题组及研究课题",
+      "meta": "发布时间：2026年6月19日 | 作者：Tensorlinx人力资源部 | 分类：企业公告",
+      "content": [
+        "Tensorlinx现面向全球招募有经验者参与2027年暑期夏令营企业研究课题组，不限国籍。本次夏令营旨在为有志于计算机科学与生物信息学领域研究的优秀本科生和研究生提供深入企业一线科研实践的机会，培养具备国际视野的前沿技术人才。",
+        "夏令营为期6周，参与者将直接进入Tensorlinx两大核心研究课题组，在资深研究员的指导下开展前沿课题研究。我们欢迎具备相关领域研究经验、编程基础扎实、英语沟通能力良好的学生申请。",
+        "申请者请将个人简历、研究经历简述及相关证明材料发送至对应课题组邮箱。邮件标题请注明「2027暑期夏令营申请-姓名-课题组」。我们期待与全球优秀的青年研究者共同推动前沿科学技术的发展。"
+      ],
+      "csrg": {
+        "title": "CSRG-计算机科学与技术课题组（上海长宁）",
+        "email": "投简历邮箱：csrg@tensorlinx.cn",
+        "topic1": "课题一《操作系统内核调度算法与资源管理研究》",
+        "topic2": "课题二《大规模语言模型训练框架的分布式算法与效率研究》",
+        "topic3": "课题三《操作系统安全可信架构与攻防机制研究》"
+      },
+      "berg": {
+        "title": "BERG-生物信息与工程课题组（上海松江）",
+        "email": "投简历邮箱：berg@tensorlinx.cn",
+        "topic1": "课题一《植物功能基因组信息学与比较基因组学研究》",
+        "topic2": "课题二《合成生物学中的分子设计与工程化调控研究》",
+        "topic3": "课题三《多组学整合建模与生物信息学数据库系统研究》"
+      },
+      "shareTitle": "分享这篇新闻",
+      "shareButton": "分享",
+      "copySuccess": "链接已复制到剪贴板！"
+    }
+  },
+  "en": {
+    "title": "Shanghai Tensorlinx Announces 2027 Summer Research Camp Programs for Undergraduate and Graduate Students - Tensorlinx News",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "jobs": "Careers",
+      "about": "About Us"
+    },
+    "pageTitle": "News & Updates",
+    "pageSubtitle": "Stay informed about Tensorlinx's latest developments, technology breakthroughs, and industry insights",
+    "article": {
+      "title": "Shanghai Tensorlinx Announces 2027 Summer Research Camp Programs for Undergraduate and Graduate Students",
+      "meta": "Published: June 19, 2026 | Author: Tensorlinx HR Department | Category: Company Announcement",
+      "content": [
+        "Tensorlinx is now recruiting experienced candidates worldwide to participate in the 2027 Summer Research Camp, with no nationality restrictions. This camp aims to provide outstanding undergraduate and graduate students interested in computer science and bioinformatics with hands-on research opportunities in an enterprise setting, cultivating frontier technical talents with international vision.",
+        "The camp lasts for 6 weeks. Participants will join Tensorlinx's two core research groups and conduct cutting-edge research projects under the guidance of senior researchers. We welcome applications from students with relevant research experience, solid programming foundations, and good English communication skills.",
+        "Applicants please send your resume, research experience summary, and relevant supporting documents to the corresponding group email. Please indicate '2027 Summer Camp Application - Name - Group' in the email subject. We look forward to working with outstanding young researchers worldwide to advance frontier science and technology."
+      ],
+      "csrg": {
+        "title": "CSRG - Computer Science and Technology Research Group (Changning, Shanghai)",
+        "email": "Application Email: csrg@tensorlinx.cn",
+        "topic1": "Topic 1: Research on Operating System Kernel Scheduling Algorithms and Resource Management",
+        "topic2": "Topic 2: Distributed Algorithms and Efficiency Research for Large-scale Language Model Training Frameworks",
+        "topic3": "Topic 3: Research on Operating System Security Trusted Architecture and Attack-Defense Mechanisms"
+      },
+      "berg": {
+        "title": "BERG - Bioinformatics and Engineering Research Group (Songjiang, Shanghai)",
+        "email": "Application Email: berg@tensorlinx.cn",
+        "topic1": "Topic 1: Research on Plant Functional Genomics Informatics and Comparative Genomics",
+        "topic2": "Topic 2: Research on Molecular Design and Engineering Regulation in Synthetic Biology",
+        "topic3": "Topic 3: Research on Multi-omics Integration Modeling and Bioinformatics Database Systems"
+      },
+      "shareTitle": "Share this news",
+      "shareButton": "Share",
+      "copySuccess": "Link copied to clipboard!"
+    }
+  }
+}

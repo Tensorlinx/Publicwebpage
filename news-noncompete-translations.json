@@ -1,0 +1,50 @@
+{
+  "zh": {
+    "title": "上海Tensorlinx调整新入职员工《竞业限制协议》 - Tensorlinx新闻",
+    "nav": {
+      "home": "首页",
+      "products": "产品文档",
+      "news": "新闻动态",
+      "jobs": "岗位招聘",
+      "about": "关于我们"
+    },
+    "pageTitle": "新闻动态",
+    "pageSubtitle": "了解Tensorlinx最新动态、技术突破和行业洞察",
+    "article": {
+      "title": "上海Tensorlinx调整新入职员工《竞业限制协议》",
+      "meta": "发布时间：2026年5月30日 | 作者：Tensorlinx人力资源部 | 分类：企业公告",
+      "content": [
+        "自2026年5月30日起，上海Tensorlinx正式调整新入职员工《竞业限制协议》的协议内容。根据最新修订，原协议第三章第五条三款中关于"转正入职的应届本科毕业生接受1年竞业限制"的条款已被删除。",
+        "这意味着，自调整生效之日起，所有应届本科毕业生在正式转正入职后，将不再被纳入《竞业限制协议》的签订范围内。公司人力资源部表示，此次调整旨在更好地适应人才市场的变化，降低应届毕业生入职初期的心理负担，为青年人才创造更加开放和友好的职业发展环境。",
+        "Tensorlinx始终坚持以人为本的人才管理理念，致力于在保护企业核心知识产权与保障员工合法权益之间寻求最佳平衡。公司将继续根据法律法规及市场实践，动态优化各项人事管理制度。"
+      ],
+      "shareTitle": "分享这篇新闻",
+      "shareButton": "分享",
+      "copySuccess": "链接已复制到剪贴板！"
+    }
+  },
+  "en": {
+    "title": "Shanghai Tensorlinx Adjusts Non-Compete Agreement for New Employees - Tensorlinx News",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "jobs": "Careers",
+      "about": "About Us"
+    },
+    "pageTitle": "News & Updates",
+    "pageSubtitle": "Stay informed about Tensorlinx's latest developments, technology breakthroughs, and industry insights",
+    "article": {
+      "title": "Shanghai Tensorlinx Adjusts Non-Compete Agreement for New Employees",
+      "meta": "Published: May 30, 2026 | Author: Tensorlinx HR Department | Category: Company Announcement",
+      "content": [
+        "Effective May 30, 2026, Shanghai Tensorlinx has formally adjusted the Non-Compete Agreement for new employees. According to the latest revision, the clause regarding 'fresh undergraduate graduates accepting a 1-year non-compete restriction upon formal employment' from Article 5, Section 3, Chapter 3 has been removed.",
+        "This means that from the effective date of the adjustment, all fresh undergraduate graduates will no longer be required to sign the Non-Compete Agreement after formal employment. The company's HR department stated that this adjustment aims to better adapt to changes in the talent market, reduce the psychological burden on fresh graduates during their initial employment period, and create a more open and friendly career development environment for young talent.",
+        "Tensorlinx always adheres to a people-oriented talent management philosophy, committed to finding the best balance between protecting the company's core intellectual property rights and safeguarding employees' legitimate rights and interests. The company will continue to dynamically optimize various personnel management systems in accordance with laws, regulations, and market practices."
+      ],
+      "shareTitle": "Share this news",
+      "shareButton": "Share",
+      "copySuccess": "Link copied to clipboard!"
+    }
+  }
+}

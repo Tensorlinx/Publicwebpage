@@ -10,7 +10,11 @@ const routeMap = {
   'h8': { url: 'NAVFIO.html', title: '岗位招聘', hash: '#/careers', translation: null, static: true },
   'i9': { url: 'funding-application.html', title: '资助申请', hash: '#/funding', translation: null },
   'j0': { url: 'privacy-policy.html', title: '隐私政策', hash: '#/privacy', translation: null },
-  'k1': { url: 'cookie-policy.html', title: 'Cookie政策', hash: '#/cookies', translation: null }
+  'k1': { url: 'cookie-policy.html', title: 'Cookie政策', hash: '#/cookies', translation: null },
+  'l2': { url: 'news-summercamp.html', title: '新闻详情', hash: '#/article/4', translation: 'news-summercamp-translations.json' },
+  'm3': { url: 'news-rnd-investment.html', title: '新闻详情', hash: '#/article/5', translation: 'news-rnd-investment-translations.json' },
+  'n4': { url: 'news-noncompete.html', title: '新闻详情', hash: '#/article/6', translation: 'news-noncompete-translations.json' },
+  'o5': { url: 'news-admin-regulations.html', title: '新闻详情', hash: '#/article/7', translation: 'news-admin-regulations-translations.json' }
 };
 
 // 当前是否使用动态加载模式

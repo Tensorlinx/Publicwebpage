@@ -20,6 +20,14 @@
     "latest": "最新新闻",
     "newsList": [
       {
+        "date": "2026年6月19日",
+        "author": "Tensorlinx人力资源部",
+        "category": "企业公告",
+        "title": "上海Tensorlinx发布2027年暑期本科生/研究生夏令营企业研究课题组及研究课题",
+        "excerpt": "Tensorlinx现面向全球招募有经验者参与2027年暑期夏令营企业研究课题组，不限国籍。本次夏令营设立CSRG与BERG两大课题组，涵盖操作系统内核、大规模语言模型分布式训练、系统安全、生物信息学等前沿研究方向。",
+        "readMore": "阅读全文 →"
+      },
+      {
         "date": "2026年2月20日",
         "author": "Tensorlinx新闻团队",
         "category": "新闻动态",
@@ -41,6 +49,30 @@
         "category": "新闻动态",
         "title": "Tensorlinx正在进行中国技术出口合规，以避免法律纠纷",
         "excerpt": "Tensorlinx正在积极响应中国技术出口合规要求，确保我们的产品和服务符合相关法律法规，避免潜在的法律纠纷...",
+        "readMore": "阅读全文 →"
+      },
+      {
+        "date": "2026年6月5日",
+        "author": "Tensorlinx财务与行政部",
+        "category": "企业公告",
+        "title": "Tensorlinx大幅增加在华研发经费投入",
+        "excerpt": "Tensorlinx宣布自2026年起将在华年度研发经费从10万人民币大幅提升至55万人民币。本次增量投入将用于高校学术课题采集及深圳新一批计算机实验设备购置，直接支持在职本科与硕士实习生的科研工作。",
+        "readMore": "阅读全文 →"
+      },
+      {
+        "date": "2026年5月30日",
+        "author": "Tensorlinx人力资源部",
+        "category": "企业公告",
+        "title": "上海Tensorlinx调整新入职员工《竞业限制协议》",
+        "excerpt": "自2026年5月30日起，Tensorlinx删除《竞业限制协议》第三章第五条三款中关于"转正入职的应届本科毕业生接受1年竞业限制"的条款。应届本科毕业生不再纳入竞业协议签订范围。",
+        "readMore": "阅读全文 →"
+      },
+      {
+        "date": "2026年5月28日",
+        "author": "Tensorlinx董事会",
+        "category": "企业公告",
+        "title": "Tensorlinx董事发布拟在6月初制定公司行政规定",
+        "excerpt": "Tensorlinx董事发布公告，拟在6月初制定新的公司行政规定，要求对在职经理以上的高管（含董事）每年开展智力筛查与性格筛查并形成报告留档。两轮次不符合标准的，公司应加强培训或转岗。同时，各部门不得以《筛查报告》为由向董事、人事提交开除申请，除非造成经济损失。",
         "readMore": "阅读全文 →"
       }
 
@@ -82,6 +114,14 @@
     "latest": "Latest News",
     "newsList": [
       {
+        "date": "June 19, 2026",
+        "author": "Tensorlinx HR Department",
+        "category": "Company Announcement",
+        "title": "Shanghai Tensorlinx Announces 2027 Summer Research Camp Programs for Undergraduate and Graduate Students",
+        "excerpt": "Tensorlinx is recruiting experienced candidates worldwide to participate in the 2027 Summer Research Camp, with no nationality restrictions. The camp features two research groups: CSRG and BERG, covering cutting-edge research areas including operating system kernels, large-scale language model distributed training, system security, and bioinformatics.",
+        "readMore": "Read More →"
+      },
+      {
         "date": "February 20, 2026",
         "author": "Tensorlinx News Team",
         "category": "News",
@@ -103,6 +143,30 @@
         "category": "News",
         "title": "Tensorlinx is conducting China technology export compliance to avoid legal disputes",
         "excerpt": "Tensorlinx is actively responding to China's technology export compliance requirements to ensure our products and services comply with relevant laws and regulations, avoiding potential legal disputes...",
+        "readMore": "Read More →"
+      },
+      {
+        "date": "June 5, 2026",
+        "author": "Tensorlinx Finance & Administration Department",
+        "category": "Company Announcement",
+        "title": "Tensorlinx Significantly Increases R&D Investment in China",
+        "excerpt": "Tensorlinx announces that its annual R&D investment in China will increase from 100,000 RMB to 550,000 RMB starting in 2026. The additional funding will be used for university academic topic collection and the procurement of new computer laboratory equipment from Shenzhen, directly supporting the research work of undergraduate and master's interns.",
+        "readMore": "Read More →"
+      },
+      {
+        "date": "May 30, 2026",
+        "author": "Tensorlinx HR Department",
+        "category": "Company Announcement",
+        "title": "Shanghai Tensorlinx Adjusts Non-Compete Agreement for New Employees",
+        "excerpt": "Effective May 30, 2026, Tensorlinx has removed the clause regarding 'fresh undergraduate graduates accepting a 1-year non-compete restriction upon formal employment' from Article 5, Section 3, Chapter 3 of the Non-Compete Agreement. Fresh undergraduate graduates are no longer required to sign the non-compete agreement.",
+        "readMore": "Read More →"
+      },
+      {
+        "date": "May 28, 2026",
+        "author": "Tensorlinx Board of Directors",
+        "category": "Company Announcement",
+        "title": "Tensorlinx Board Announces Proposed Company Administrative Regulations to be Formulated in Early June",
+        "excerpt": "The Tensorlinx Board of Directors announced that new company administrative regulations will be formulated in early June, requiring annual intelligence and personality screening for executives at the manager level and above (including directors), with reports filed for record. Those who fail to meet standards for two consecutive rounds shall receive enhanced training or be transferred to other positions. Additionally, departments are prohibited from submitting dismissal applications to the board or HR based on screening reports, except in cases of economic loss.",
         "readMore": "Read More →"
       }
 

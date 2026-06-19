@@ -1,0 +1,50 @@
+{
+  "zh": {
+    "title": "Tensorlinx大幅增加在华研发经费投入 - Tensorlinx新闻",
+    "nav": {
+      "home": "首页",
+      "products": "产品文档",
+      "news": "新闻动态",
+      "jobs": "岗位招聘",
+      "about": "关于我们"
+    },
+    "pageTitle": "新闻动态",
+    "pageSubtitle": "了解Tensorlinx最新动态、技术突破和行业洞察",
+    "article": {
+      "title": "Tensorlinx大幅增加在华研发经费投入",
+      "meta": "发布时间：2026年6月5日 | 作者：Tensorlinx财务与行政部 | 分类：企业公告",
+      "content": [
+        "Tensorlinx正式宣布，自2026年起，公司在华年度研发经费将从2024年的每年10万人民币大幅提升至每年55万人民币。这一战略决策标志着Tensorlinx对中国市场长期投入的坚定承诺，也体现了公司对本土人才培养和前沿技术研究的高度重视。",
+        "本次经费增量将主要用于两大方向：一是高校学术课题采集费用，支持与国内外顶尖高校合作开展前沿技术预研；二是从深圳购置新一批高性能计算机实验设备，为在职本科实习生和硕士实习生提供一流的科研硬件环境。",
+        "公司表示，研发经费的大幅提升将直接惠及在职实习生群体，为他们提供更充足的算力资源和更广泛的学术合作机会。Tensorlinx将持续优化实习生培养体系，助力青年科研人才快速成长。"
+      ],
+      "shareTitle": "分享这篇新闻",
+      "shareButton": "分享",
+      "copySuccess": "链接已复制到剪贴板！"
+    }
+  },
+  "en": {
+    "title": "Tensorlinx Significantly Increases R&D Investment in China - Tensorlinx News",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "jobs": "Careers",
+      "about": "About Us"
+    },
+    "pageTitle": "News & Updates",
+    "pageSubtitle": "Stay informed about Tensorlinx's latest developments, technology breakthroughs, and industry insights",
+    "article": {
+      "title": "Tensorlinx Significantly Increases R&D Investment in China",
+      "meta": "Published: June 5, 2026 | Author: Tensorlinx Finance & Administration Department | Category: Company Announcement",
+      "content": [
+        "Tensorlinx officially announced that starting from 2026, the company's annual R&D investment in China will increase significantly from 100,000 RMB per year in 2024 to 550,000 RMB per year. This strategic decision marks Tensorlinx's firm commitment to long-term investment in the Chinese market and reflects the company's high regard for local talent cultivation and cutting-edge technology research.",
+        "The additional funding will be mainly used in two directions: first, university academic topic collection fees, supporting cooperation with top universities at home and abroad to carry out frontier technology pre-research; second, the procurement of new high-performance computer laboratory equipment from Shenzhen, providing first-class scientific research hardware environment for undergraduate and master's interns.",
+        "The company stated that the significant increase in R&D funding will directly benefit the intern group, providing them with more abundant computing resources and broader academic cooperation opportunities. Tensorlinx will continue to optimize the intern training system to help young scientific research talents grow rapidly."
+      ],
+      "shareTitle": "Share this news",
+      "shareButton": "Share",
+      "copySuccess": "Link copied to clipboard!"
+    }
+  }
+}

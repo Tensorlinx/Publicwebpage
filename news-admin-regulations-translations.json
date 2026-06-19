@@ -1,0 +1,52 @@
+{
+  "zh": {
+    "title": "Tensorlinx董事发布拟在6月初制定公司行政规定 - Tensorlinx新闻",
+    "nav": {
+      "home": "首页",
+      "products": "产品文档",
+      "news": "新闻动态",
+      "jobs": "岗位招聘",
+      "about": "关于我们"
+    },
+    "pageTitle": "新闻动态",
+    "pageSubtitle": "了解Tensorlinx最新动态、技术突破和行业洞察",
+    "article": {
+      "title": "Tensorlinx董事发布拟在6月初制定公司行政规定",
+      "meta": "发布时间：2026年5月28日 | 作者：Tensorlinx董事会 | 分类：企业公告",
+      "content": [
+        "2026年5月28日，Tensorlinx董事会正式发布公告，宣布拟于6月初制定全新的公司行政规定。该规定旨在进一步完善公司治理体系，加强对高管层的科学管理，确保公司战略决策与执行的高度一致性。",
+        "根据公告内容，新规定将要求对在职经理级别及以上的高管（含董事）每年开展智力筛查与性格筛查，并形成书面报告留档备查。筛查结果将作为高管能力评估与岗位匹配的重要参考依据。",
+        "对于连续两轮次筛查不符合标准的人员，公司应当采取加强培训或内部转岗等措施，帮助其提升能力或调整至更合适的岗位，而非直接解除劳动关系。",
+        "同时，公告明确强调：各部门不得以《筛查报告》为由向董事会或人力资源部提交开除申请，除非该高管的行为已对公司造成实际经济损失。此举旨在防止筛查结果被滥用，切实保障高管员工的合法权益。"
+      ],
+      "shareTitle": "分享这篇新闻",
+      "shareButton": "分享",
+      "copySuccess": "链接已复制到剪贴板！"
+    }
+  },
+  "en": {
+    "title": "Tensorlinx Board Announces Proposed Company Administrative Regulations - Tensorlinx News",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "jobs": "Careers",
+      "about": "About Us"
+    },
+    "pageTitle": "News & Updates",
+    "pageSubtitle": "Stay informed about Tensorlinx's latest developments, technology breakthroughs, and industry insights",
+    "article": {
+      "title": "Tensorlinx Board Announces Proposed Company Administrative Regulations to be Formulated in Early June",
+      "meta": "Published: May 28, 2026 | Author: Tensorlinx Board of Directors | Category: Company Announcement",
+      "content": [
+        "On May 28, 2026, the Tensorlinx Board of Directors officially announced that new company administrative regulations will be formulated in early June. The regulations aim to further improve the corporate governance system, strengthen scientific management of the executive team, and ensure high consistency between strategic decision-making and execution.",
+        "According to the announcement, the new regulations will require annual intelligence and personality screening for executives at the manager level and above (including directors), with written reports filed for record. Screening results will serve as an important reference for executive capability assessment and job matching.",
+        "For individuals who fail to meet standards for two consecutive rounds, the company shall take measures such as enhanced training or internal transfer to help them improve their capabilities or adjust to more suitable positions, rather than directly terminating the employment relationship.",
+        "Meanwhile, the announcement explicitly emphasizes that no department may submit dismissal applications to the board or human resources based on the Screening Report, unless the executive's actions have caused actual economic losses to the company. This measure aims to prevent the misuse of screening results and effectively safeguard the legitimate rights and interests of executive employees."
+      ],
+      "shareTitle": "Share this news",
+      "shareButton": "Share",
+      "copySuccess": "Link copied to clipboard!"
+    }
+  }
+}
